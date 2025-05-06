@@ -16,7 +16,7 @@ This SQL script includes:
 ![MySQL](https://img.shields.io/badge/Built%20with-MySQL-blue)
 
 ## 📁 Files Included
-- `Layoffs_Cleaned.csv` - Cleaned and ready version of the data used in this EDA project
+- `Layoffs_Cleaned_1.csv` - Cleaned and ready version of the data used in this EDA project
 - `SQL_COVID_Layoffs_EDA.sql` — The full exploratory SQL script
 - `SQL_COVID_Layoffs_EDA.docx` - An easy copy/paste version of the exaxt SQL script used
 

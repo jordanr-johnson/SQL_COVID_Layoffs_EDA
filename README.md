@@ -18,7 +18,7 @@ This SQL script includes:
 ## 📁 Files Included
 - `Layoffs_Cleaned.csv` - Cleaned and ready version of the data used in this EDA project
 - `SQL_COVID_Layoffs_EDA.sql` — The full exploratory SQL script
-- `SQL_COVID_Layoffs_EDA.docx` - AN easy copy/paste version of the exaxt SQL script used
+- `SQL_COVID_Layoffs_EDA.docx` - An easy copy/paste version of the exaxt SQL script used
 
 ## 📌 How to Use
 1. Import the cleaned `layoffs2` table into your MySQL database.
